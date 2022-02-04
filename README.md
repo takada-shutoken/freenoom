@@ -35,7 +35,7 @@ Documentation: [English version](https://github.com/luolongfei/freenom/blob/mast
 
 [🎉  鸣谢](#--鸣谢)
 
-[🥝  开源协议](#--开源协议)
+[🥝  开源协(#--开源协议)
 
 
 ### 📃  前言
